@@ -2,15 +2,18 @@
   "id": "2",
   "updates": [
     {
+      "id": "abc1",
       "iconId": "square.and.arrow.up",
       "label": "Update One",
       "subtext": "This is an optional subtext for Update One"
     },
     {
+      "id": "abc2",
       "iconId": "rectangle.portrait.and.arrow.right",
       "label": "Update Two"
     },
     {
+      "id": "abc3",
       "iconId": "eraser",
       "label": "Update Three",
       "subtext": "This is an optional subtext for Update Three"
