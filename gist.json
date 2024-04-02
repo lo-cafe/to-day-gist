@@ -1,0 +1,19 @@
+{
+  "id": "1",
+  "updates": [
+    {
+      "iconId": "square.and.arrow.up",
+      "label": "Update One",
+      "subtext": "This is an optional subtext for Update One"
+    },
+    {
+      "iconId": "rectangle.portrait.and.arrow.right",
+      "label": "Update Two"
+    },
+    {
+      "iconId": "eraser",
+      "label": "Update Three",
+      "subtext": "This is an optional subtext for Update Three"
+    }
+  ]
+}
