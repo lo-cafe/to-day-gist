@@ -1,16 +1,11 @@
 {
-  "id": "5",
+  "id": "6",
   "updates": [
     {
       "id": "abc1",
       "iconId": "square.and.arrow.up",
-      "label": "Kinark gets some work done!",
-      "subtext": "Igor has recently made monster achievements in the new hit-app, to-day!"
-    },
-    {
-      "id": "abc2",
-      "iconId": "rectangle.portrait.and.arrow.right",
-      "label": "Daniel"
+      "label": "Lo.cafe gets its developer account!",
+      "subtext": "Daniel's mom is incredible!"
     }
   ]
 }
